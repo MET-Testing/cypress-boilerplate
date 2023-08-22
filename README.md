@@ -1,7 +1,3 @@
-# cypress_testingqarvn
-
-Web de pruebas para practicar Cypress con Javacript
-
 # Cómo empezar?
 
 0. **Ten instalado node**<br>
