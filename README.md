@@ -4,7 +4,7 @@
    Para chequear si lo tienes instalado:
 
 ```
- npm -v
+node -v
 ```
 
 \*Version recomendada 16.14.2 o mayores a esta.<br>
