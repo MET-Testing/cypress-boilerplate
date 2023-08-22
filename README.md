@@ -15,13 +15,13 @@ En caso de no tenerlo instalalo: [descargalo desde el sitio oficial de node](htt
 #### Https:
 
      ```
-    git clone https://.....git
+    git clone https://github.com/MET-Testing/cypress-boilerplate.git
     ```
 
 #### Ssh:
 
     ```
-    git clone git@github.com:.....git
+    git clone git@github.com:MET-Testing/cypress-boilerplate.git
     ```
 
 2. **Muevete al directorio** donde hayas clonado el repo.
