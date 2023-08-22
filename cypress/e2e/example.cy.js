@@ -4,7 +4,7 @@ import { Example } from "../support/pages/example.page.js";
 describe("login scenarios", () => {
   const examplePage = new Example();
 
-  beforeEach("", () => {
+  it("", () => {
     cy.visit(baseUrl);
   });
 });
